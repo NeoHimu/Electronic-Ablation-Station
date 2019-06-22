@@ -6,26 +6,26 @@ The one thing that I did differently was instead of using RFID sensors and RFID 
 
 
 
-![25%](1.jpeg)
+<img src="images/1.jpeg" height="450" width="300">
 Two metallic strips are attached on the top from inside of the box. These two metallic strips on the top complete the circuit when PVC rod slide through it (due to melting of glacier) and touches the metallic strip on the PVC rod.
  
  
  
  
  
-![25%](2.jpeg)
+<img src="images/2.jpeg" height="450" width="300">
 Raspberry pi with DTH11 sensor to capture humidity and temperature
 
 
 
 
 
-![25%](3.jpeg)
+<img src="images/3.jpeg" height="450" width="300">
 Two metallic strip which will be attached on top of the setup
 
 
 
 
 
-![25%](4.jpeg)
+<img src="images/4.jpeg" height="450" width="300">
 PVC rod with metallic strip some fixed distance apart
