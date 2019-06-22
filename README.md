@@ -1,4 +1,4 @@
-# Electronic-Ablation-Station
+# Electronic Ablation Station
 This implementation is an adaptation of the implementation suggested in the paper
 [Open-source Automatic Weather Station and Electronic Ablation Station for measuring the impacts of climate change on glaciers](https://www.researchgate.net/publication/330195239_Open-source_Automatic_Weather_Station_and_Electronic_Ablation_Station_for_measuring_the_impacts_of_climate_change_on_glaciers)
 
