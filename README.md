@@ -7,7 +7,7 @@ The one thing that I did differently was instead of using RFID sensors and RFID 
 
 
 ![25%](1.jpeg)
-Two metallic strip are attached on the top from inside of the box. These metallic strips complete the circuit when PVC rod slide through it (due to melting of glacier) and touches the metallic strip on the PVC rod.
+Two metallic strips are attached on the top from inside of the box. These two metallic strips on the top complete the circuit when PVC rod slide through it (due to melting of glacier) and touches the metallic strip on the PVC rod.
  
  
  
