@@ -4,14 +4,28 @@ This implementation is an adaptation of the implementation suggested in the pape
 
 The one thing that I did differently was instead of using RFID sensors and RFID tag to measure the change in the level of the glacier, I used metallic strip (e.g. aluminium foil) on a PVC rod each strip 1 inch apart. Inside the setup I have used two other aluminimum strip (a substitute of carbon brush). As ice melts, the setup goes downward. At one point of time circuit completes as two metallic strip touch the metallic strip on the PVC rod. When circuit completes then temperature and humidity are recorded along with the timestamp. Number of entry recorded denotes number of inches glacier has melted. The advantage of using metallic strip instead of RFID sensor and tags is that it can measure upto any resolution i.e. if we want to measure the change in the glacier in milimeter or centimeter range then that is also possible by changing the spacing between the metallic strips on the PVC rod. But this is not possible in case of RFID tags because if two tags are close enough then RFID sensor will get confused which one to read. 
 
-![50%](1.jpeg)
-Two metallic strip are attached on the top from inside of the box. These metallic strips complete the circuit when PVC rod slide through it (due to melting of glacier) and touches the metallic strip on the PVC rod.
 
-![50%](2.jpeg)
+
+![25%](1.jpeg)
+Two metallic strip are attached on the top from inside of the box. These metallic strips complete the circuit when PVC rod slide through it (due to melting of glacier) and touches the metallic strip on the PVC rod.
+ 
+ 
+ 
+ 
+ 
+![25%](2.jpeg)
 Raspberry pi with DTH11 sensor to capture humidity and temperature
 
-![50%](3.jpeg)
+
+
+
+
+![25%](3.jpeg)
 Two metallic strip which will be attached on top of the setup
 
-![50%](4.jpeg)
+
+
+
+
+![25%](4.jpeg)
 PVC rod with metallic strip some fixed distance apart
